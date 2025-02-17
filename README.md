@@ -1,4 +1,6 @@
 # Enhanced Copper And Gold
+
+Latest version : 1.0.0
   
 ### ✨ Description   
 Enhance your building creativity with **new decorative blocks and resources** ! Craft **chains**, **grids**, **lanterns**, **grates**, and more from **gold and copper**, along with new copper ingots _(Exposed, Weathered, and Oxidized)_. Plus, you can now craft pressure plates and buttons from every type of copper, giving you even more ways to personalize your builds!🏠✨
